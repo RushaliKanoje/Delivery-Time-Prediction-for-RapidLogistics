@@ -1,0 +1,11 @@
+Column Name,Description
+shipment_id,Unique ID for the shipment
+origin_city,City of origin
+destination_city,City of destination
+package_weight_kg,Weight of the package in kilograms
+package_size_cu_m,Size of the package in cubic meters
+transport_mode,Mode of transport used for delivery
+historical_avg_delivery_time_hrs,Average historical delivery time in hours
+traffic_delay_hrs,Estimated delay due to traffic in hours
+weather_delay_hrs,Estimated delay due to weather in hours
+estimated_delivery_time_hrs,Final estimated delivery time in hours
